@@ -1,0 +1,10 @@
+department,head,budget,id,name,salary,city
+Finance,Ms Priya,400000,5.0,Karthik,90000.0,Mumbai
+HR,Ms Lakshmi,300000,2.0,Priya,45000.0,Chennai
+HR,Ms Lakshmi,300000,8.0,Anitha,56000.0,
+IT,Mr Ravi,800000,3.0,Rahul,60000.0,Bangalore
+IT,Mr Ravi,800000,4.0,Divya,75000.0,Chennai
+IT,Mr Ravi,800000,7.0,Suresh,56000.0,
+Marketing,Mr Anand,250000,,,,
+Sales,Mr Kumar,500000,1.0,Arun,30000.0,Chennai
+Sales,Mr Kumar,500000,6.0,Meena,52000.0,Bangalore
